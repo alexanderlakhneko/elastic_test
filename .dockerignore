@@ -1,0 +1,12 @@
+.git
+/application/vendor
+.idea
+!.gitignore
+.postgr-env
+.postgr-env.example
+/.phpstorm.meta.php
+/application/_ide_helper.php
+docker-compose.yml
+docker-compose.test.yml
+docker-compose.prod.yml
+/application/node_modules

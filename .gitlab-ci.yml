@@ -1,0 +1,12 @@
+image: kroniak/ssh-client:3.9
+
+deploy:
+  only:
+    - adminPanel
+  script:
+    - mkdir ~/.ssh
+    - chmod 700 ~/.ssh
+    - echo -e "Host *\n\tStrictHostKeyChecking no\n\n" > ~/.ssh/config
+    - echo "$TELEGRAM_BOT_SSH_KEY" > ~/.ssh/id_rsa
+    - chmod 600 ~/.ssh/id_rsa
+    - ssh $TELEGRAM_BOT_SSH_USER@$TELEGRAM_BOT_SSH_HOST "cd ~/loot && git pull && make deploy"
