@@ -52,8 +52,7 @@ RUN wget https://github.com/jwilder/dockerize/releases/download/$DOCKERIZE_VERSI
     && tar -C /usr/local/bin -xzvf dockerize-alpine-linux-amd64-$DOCKERIZE_VERSION.tar.gz \
     && rm dockerize-alpine-linux-amd64-$DOCKERIZE_VERSION.tar.gz
 
-COPY --from=composer:1.9 /usr/bin/composer /usr/bin/composer
-COPY /docker/xdebug.ini /usr/local/etc/php/conf.d/docker-php-ext-xdebug.ini
+COPY --from=composer:2.0 /usr/bin/composer /usr/bin/composer
 
 ENV COMPOSER_CACHE_DIR=/dev/null
 
