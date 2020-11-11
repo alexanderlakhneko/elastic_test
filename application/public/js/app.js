@@ -2382,6 +2382,7 @@
 //
 //
 //
+//
         /* harmony default export */
         __webpack_exports__["default"] = ({
             props: ['on']
@@ -2402,6 +2403,10 @@
         __webpack_require__.r(__webpack_exports__);
         /* harmony import */
         var _SectionTitle__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SectionTitle */ "./resources/js/Jetstream/SectionTitle.vue");
+//
+//
+//
+//
 //
 //
 //
@@ -2444,6 +2449,7 @@
 //
 //
 //
+//
         /* harmony default export */
         __webpack_exports__["default"] = ({
             props: {
@@ -2469,6 +2475,9 @@
         __webpack_require__.r(__webpack_exports__);
         /* harmony import */
         var _Modal__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./Modal */ "./resources/js/Jetstream/Modal.vue");
+//
+//
+//
 //
 //
 //
@@ -2545,6 +2554,7 @@
         var _InputError__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./InputError */ "./resources/js/Jetstream/InputError.vue");
         /* harmony import */
         var _SecondaryButton__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./SecondaryButton */ "./resources/js/Jetstream/SecondaryButton.vue");
+//
 //
 //
 //
@@ -2668,6 +2678,7 @@
 
         "use strict";
         __webpack_require__.r(__webpack_exports__);
+//
 //
 //
 //
@@ -2864,6 +2875,10 @@
 //
 //
 //
+//
+//
+//
+//
         /* harmony default export */
         __webpack_exports__["default"] = ({
             props: ['href', 'as']
@@ -2884,6 +2899,11 @@
         __webpack_require__.r(__webpack_exports__);
         /* harmony import */
         var _SectionTitle__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./SectionTitle */ "./resources/js/Jetstream/SectionTitle.vue");
+//
+//
+//
+//
+//
 //
 //
 //
@@ -2935,6 +2955,7 @@
 
         "use strict";
         __webpack_require__.r(__webpack_exports__);
+//
 //
 //
 //
@@ -3013,6 +3034,8 @@
 
         "use strict";
         __webpack_require__.r(__webpack_exports__);
+//
+//
 //
 //
 //
@@ -3185,6 +3208,7 @@
 //
 //
 //
+//
         /* harmony default export */
         __webpack_exports__["default"] = ({
             props: {
@@ -3210,6 +3234,44 @@
         __webpack_require__.r(__webpack_exports__);
         /* harmony import */
         var _Jetstream_ApplicationLogo__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! @/Jetstream/ApplicationLogo */ "./resources/js/Jetstream/ApplicationLogo.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3336,6 +3398,40 @@
         var _Jetstream_NavLink__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! @/Jetstream/NavLink */ "./resources/js/Jetstream/NavLink.vue");
         /* harmony import */
         var _Jetstream_ResponsiveNavLink__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! @/Jetstream/ResponsiveNavLink */ "./resources/js/Jetstream/ResponsiveNavLink.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -3781,6 +3877,15 @@
 //
 //
 //
+//
+//
+//
+//
+//
+//
+//
+//
+//
 
 
         /* harmony default export */
@@ -4039,6 +4144,10 @@
 //
 //
 //
+//
+//
+//
+//
 
 
         /* harmony default export */
@@ -4114,6 +4223,19 @@
         var _Jetstream_InputError__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @/Jetstream/InputError */ "./resources/js/Jetstream/InputError.vue");
         /* harmony import */
         var _Jetstream_SecondaryButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @/Jetstream/SecondaryButton */ "./resources/js/Jetstream/SecondaryButton.vue");
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
+//
 //
 //
 //
@@ -4439,6 +4561,9 @@
 //
 //
 //
+//
+//
+//
 
 
         /* harmony default export */
@@ -4577,6 +4702,9 @@
 //
 //
 //
+//
+//
+//
 
 
         /* harmony default export */
@@ -4640,6 +4768,9 @@
         var _Jetstream_ActionMessage__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! @/Jetstream/ActionMessage */ "./resources/js/Jetstream/ActionMessage.vue");
         /* harmony import */
         var _Jetstream_SecondaryButton__WEBPACK_IMPORTED_MODULE_6__ = __webpack_require__(/*! @/Jetstream/SecondaryButton */ "./resources/js/Jetstream/SecondaryButton.vue");
+//
+//
+//
 //
 //
 //
@@ -23852,8 +23983,8 @@
                 "svg",
                 {
                     attrs: {
-                        viewBox: "0 0 317 48",
                         fill: "none",
+                        viewBox: "0 0 317 48",
                         xmlns: "http://www.w3.org/2000/svg"
                     }
                 },
@@ -23917,8 +24048,8 @@
                 "svg",
                 {
                     attrs: {
-                        viewBox: "0 0 48 48",
                         fill: "none",
+                        viewBox: "0 0 48 48",
                         xmlns: "http://www.w3.org/2000/svg"
                     }
                 },
@@ -24014,9 +24145,9 @@
                 "modal",
                 {
                     attrs: {
-                        show: _vm.show,
+                        closeable: _vm.closeable,
                         "max-width": _vm.maxWidth,
-                        closeable: _vm.closeable
+                        show: _vm.show
                     },
                     on: {close: _vm.close}
                 },
@@ -24035,19 +24166,19 @@
                                         {
                                             staticClass: "h-6 w-6 text-red-600",
                                             attrs: {
-                                                stroke: "currentColor",
                                                 fill: "none",
+                                                stroke: "currentColor",
                                                 viewBox: "0 0 24 24"
                                             }
                                         },
                                         [
                                             _c("path", {
                                                 attrs: {
+                                                    d:
+                                                        "M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z",
                                                     "stroke-linecap": "round",
                                                     "stroke-linejoin": "round",
-                                                    "stroke-width": "2",
-                                                    d:
-                                                        "M12 9v2m0 4h.01m-6.938 4h13.856c1.54 0 2.502-1.667 1.732-3L13.732 4c-.77-1.333-2.694-1.333-3.464 0L3.34 16c-.77 1.333.192 3 1.732 3z"
+                                                    "stroke-width": "2"
                                                 }
                                             })
                                         ]
@@ -24146,7 +24277,7 @@
                                                 _c("jet-input", {
                                                     ref: "password",
                                                     staticClass: "mt-1 block w-3/4",
-                                                    attrs: {type: "password", placeholder: "Password"},
+                                                    attrs: {placeholder: "Password", type: "password"},
                                                     nativeOn: {
                                                         keyup: function ($event) {
                                                             if (
@@ -24303,9 +24434,9 @@
                 "modal",
                 {
                     attrs: {
-                        show: _vm.show,
+                        closeable: _vm.closeable,
                         "max-width": _vm.maxWidth,
-                        closeable: _vm.closeable
+                        show: _vm.show
                     },
                     on: {close: _vm.close}
                 },
@@ -25110,7 +25241,7 @@
                         _vm._v(" "),
                         _c("div", {staticClass: "mt-6 text-gray-500"}, [
                             _vm._v(
-                                "\n            Laravel Jetstream provides a beautiful, robust starting point for your next Laravel application. Laravel is designed\n            to help you build your application using a development environment that is simple, powerful, and enjoyable. We believe\n            you should love expressing your creativity through programming, so we have spent time carefully crafting the Laravel\n            ecosystem to be a breath of fresh air. We hope you love it.\n        "
+                                "\n            Laravel Jetstream provides a beautiful, robust starting point for your next Laravel application. Laravel\n            is designed\n            to help you build your application using a development environment that is simple, powerful, and\n            enjoyable. We believe\n            you should love expressing your creativity through programming, so we have spent time carefully crafting\n            the Laravel\n            ecosystem to be a breath of fresh air. We hope you love it.\n        "
                             )
                         ])
                     ]
@@ -25153,7 +25284,7 @@
                             _c("div", {staticClass: "ml-12"}, [
                                 _c("div", {staticClass: "mt-2 text-sm text-gray-500"}, [
                                     _vm._v(
-                                        "\n                    Laravel has wonderful documentation covering every aspect of the framework. Whether you're new to the framework or have previous experience, we recommend reading all of the documentation from beginning to end.\n                "
+                                        "\n                    Laravel has wonderful documentation covering every aspect of the framework. Whether you're new\n                    to the framework or have previous experience, we recommend reading all of the documentation from\n                    beginning to end.\n                "
                                     )
                                 ]),
                                 _vm._v(" "),
@@ -25172,15 +25303,15 @@
                                                     "svg",
                                                     {
                                                         staticClass: "w-4 h-4",
-                                                        attrs: {viewBox: "0 0 20 20", fill: "currentColor"}
+                                                        attrs: {fill: "currentColor", viewBox: "0 0 20 20"}
                                                     },
                                                     [
                                                         _c("path", {
                                                             attrs: {
-                                                                "fill-rule": "evenodd",
+                                                                "clip-rule": "evenodd",
                                                                 d:
                                                                     "M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z",
-                                                                "clip-rule": "evenodd"
+                                                                "fill-rule": "evenodd"
                                                             }
                                                         })
                                                     ]
@@ -25220,6 +25351,7 @@
                                                         "M3 9a2 2 0 012-2h.93a2 2 0 001.664-.89l.812-1.22A2 2 0 0110.07 4h3.86a2 2 0 011.664.89l.812 1.22A2 2 0 0018.07 7H19a2 2 0 012 2v9a2 2 0 01-2 2H5a2 2 0 01-2-2V9z"
                                                 }
                                             }),
+                                            _vm._v(" "),
                                             _c("path", {
                                                 attrs: {d: "M15 13a3 3 0 11-6 0 3 3 0 016 0z"}
                                             })
@@ -25232,7 +25364,7 @@
                                 _c("div", {staticClass: "ml-12"}, [
                                     _c("div", {staticClass: "mt-2 text-sm text-gray-500"}, [
                                         _vm._v(
-                                            "\n                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check them out, see for yourself, and massively level up your development skills in the process.\n                "
+                                            "\n                    Laracasts offers thousands of video tutorials on Laravel, PHP, and JavaScript development. Check\n                    them out, see for yourself, and massively level up your development skills in the process.\n                "
                                         )
                                     ]),
                                     _vm._v(" "),
@@ -25251,15 +25383,15 @@
                                                         "svg",
                                                         {
                                                             staticClass: "w-4 h-4",
-                                                            attrs: {viewBox: "0 0 20 20", fill: "currentColor"}
+                                                            attrs: {fill: "currentColor", viewBox: "0 0 20 20"}
                                                         },
                                                         [
                                                             _c("path", {
                                                                 attrs: {
-                                                                    "fill-rule": "evenodd",
+                                                                    "clip-rule": "evenodd",
                                                                     d:
                                                                         "M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z",
-                                                                    "clip-rule": "evenodd"
+                                                                    "fill-rule": "evenodd"
                                                                 }
                                                             })
                                                         ]
@@ -25394,7 +25526,7 @@
                 return _c("div", {staticClass: "ml-12"}, [
                     _c("div", {staticClass: "mt-2 text-sm text-gray-500"}, [
                         _vm._v(
-                            "\n                    Laravel Jetstream is built with Tailwind, an amazing utility first CSS framework that doesn't get in your way. You'll be amazed how easily you can build and maintain fresh, modern designs with this wonderful framework at your fingertips.\n                "
+                            "\n                    Laravel Jetstream is built with Tailwind, an amazing utility first CSS framework that doesn't\n                    get in your way. You'll be amazed how easily you can build and maintain fresh, modern designs\n                    with this wonderful framework at your fingertips.\n                "
                         )
                     ])
                 ])
@@ -25406,7 +25538,7 @@
                 return _c("div", {staticClass: "ml-12"}, [
                     _c("div", {staticClass: "mt-2 text-sm text-gray-500"}, [
                         _vm._v(
-                            "\n                    Authentication and registration views are included with Laravel Jetstream, as well as support for user email verification and resetting forgotten passwords. So, you're free to get started what matters most: building your application.\n                "
+                            "\n                    Authentication and registration views are included with Laravel Jetstream, as well as support\n                    for user email verification and resetting forgotten passwords. So, you're free to get started\n                    what matters most: building your application.\n                "
                         )
                     ])
                 ])
@@ -25474,8 +25606,8 @@
                                                 "jet-nav-link",
                                                 {
                                                     attrs: {
-                                                        href: _vm.route("dashboard"),
-                                                        active: _vm.route().current("dashboard")
+                                                        active: _vm.route().current("dashboard"),
+                                                        href: _vm.route("dashboard")
                                                     }
                                                 },
                                                 [
@@ -25516,8 +25648,8 @@
                                                                                 staticClass:
                                                                                     "h-8 w-8 rounded-full object-cover",
                                                                                 attrs: {
-                                                                                    src: _vm.$page.user.profile_photo_url,
-                                                                                    alt: _vm.$page.user.name
+                                                                                    alt: _vm.$page.user.name,
+                                                                                    src: _vm.$page.user.profile_photo_url
                                                                                 }
                                                                             })
                                                                         ]
@@ -25539,18 +25671,18 @@
                                                                                     {
                                                                                         staticClass: "fill-current h-4 w-4",
                                                                                         attrs: {
+                                                                                            viewBox: "0 0 20 20",
                                                                                             xmlns:
-                                                                                                "http://www.w3.org/2000/svg",
-                                                                                            viewBox: "0 0 20 20"
+                                                                                                "http://www.w3.org/2000/svg"
                                                                                         }
                                                                                     },
                                                                                     [
                                                                                         _c("path", {
                                                                                             attrs: {
-                                                                                                "fill-rule": "evenodd",
+                                                                                                "clip-rule": "evenodd",
                                                                                                 d:
                                                                                                     "M5.293 7.293a1 1 0 011.414 0L10 10.586l3.293-3.293a1 1 0 111.414 1.414l-4 4a1 1 0 01-1.414 0l-4-4a1 1 0 010-1.414z",
-                                                                                                "clip-rule": "evenodd"
+                                                                                                "fill-rule": "evenodd"
                                                                                             }
                                                                                         })
                                                                                     ]
@@ -25711,14 +25843,14 @@
                                                                                                                         "mr-2 h-5 w-5 text-green-400",
                                                                                                                     attrs: {
                                                                                                                         fill: "none",
+                                                                                                                        stroke:
+                                                                                                                            "currentColor",
                                                                                                                         "stroke-linecap":
                                                                                                                             "round",
                                                                                                                         "stroke-linejoin":
                                                                                                                             "round",
                                                                                                                         "stroke-width":
                                                                                                                             "2",
-                                                                                                                        stroke:
-                                                                                                                            "currentColor",
                                                                                                                         viewBox:
                                                                                                                             "0 0 24 24"
                                                                                                                     }
@@ -25806,8 +25938,8 @@
                                                 {
                                                     staticClass: "h-6 w-6",
                                                     attrs: {
-                                                        stroke: "currentColor",
                                                         fill: "none",
+                                                        stroke: "currentColor",
                                                         viewBox: "0 0 24 24"
                                                     }
                                                 },
@@ -25818,10 +25950,10 @@
                                                             "inline-flex": !_vm.showingNavigationDropdown
                                                         },
                                                         attrs: {
+                                                            d: "M4 6h16M4 12h16M4 18h16",
                                                             "stroke-linecap": "round",
                                                             "stroke-linejoin": "round",
-                                                            "stroke-width": "2",
-                                                            d: "M4 6h16M4 12h16M4 18h16"
+                                                            "stroke-width": "2"
                                                         }
                                                     }),
                                                     _vm._v(" "),
@@ -25831,10 +25963,10 @@
                                                             "inline-flex": _vm.showingNavigationDropdown
                                                         },
                                                         attrs: {
+                                                            d: "M6 18L18 6M6 6l12 12",
                                                             "stroke-linecap": "round",
                                                             "stroke-linejoin": "round",
-                                                            "stroke-width": "2",
-                                                            d: "M6 18L18 6M6 6l12 12"
+                                                            "stroke-width": "2"
                                                         }
                                                     })
                                                 ]
@@ -25863,8 +25995,8 @@
                                             "jet-responsive-nav-link",
                                             {
                                                 attrs: {
-                                                    href: _vm.route("dashboard"),
-                                                    active: _vm.route().current("dashboard")
+                                                    active: _vm.route().current("dashboard"),
+                                                    href: _vm.route("dashboard")
                                                 }
                                             },
                                             [_vm._v("\n                    Dashboard\n                ")]
@@ -25879,8 +26011,8 @@
                                             _c("img", {
                                                 staticClass: "h-10 w-10 rounded-full",
                                                 attrs: {
-                                                    src: _vm.$page.user.profile_photo_url,
-                                                    alt: _vm.$page.user.name
+                                                    alt: _vm.$page.user.name,
+                                                    src: _vm.$page.user.profile_photo_url
                                                 }
                                             })
                                         ]),
@@ -25908,8 +26040,8 @@
                                                 "jet-responsive-nav-link",
                                                 {
                                                     attrs: {
-                                                        href: _vm.route("profile.show"),
-                                                        active: _vm.route().current("profile.show")
+                                                        active: _vm.route().current("profile.show"),
+                                                        href: _vm.route("profile.show")
                                                     }
                                                 },
                                                 [
@@ -25924,8 +26056,8 @@
                                                 "jet-responsive-nav-link",
                                                 {
                                                     attrs: {
-                                                        href: _vm.route("api-tokens.index"),
-                                                        active: _vm.route().current("api-tokens.index")
+                                                        active: _vm.route().current("api-tokens.index"),
+                                                        href: _vm.route("api-tokens.index")
                                                     }
                                                 },
                                                 [
@@ -25981,11 +26113,11 @@
                                                         "jet-responsive-nav-link",
                                                         {
                                                             attrs: {
+                                                                active: _vm.route().current("teams.show"),
                                                                 href: _vm.route(
                                                                     "teams.show",
                                                                     _vm.$page.user.current_team
-                                                                ),
-                                                                active: _vm.route().current("teams.show")
+                                                                )
                                                             }
                                                         },
                                                         [
@@ -25999,8 +26131,8 @@
                                                         "jet-responsive-nav-link",
                                                         {
                                                             attrs: {
-                                                                href: _vm.route("teams.create"),
-                                                                active: _vm.route().current("teams.create")
+                                                                active: _vm.route().current("teams.create"),
+                                                                href: _vm.route("teams.create")
                                                             }
                                                         },
                                                         [
@@ -26055,10 +26187,10 @@
                                                                                                 "mr-2 h-5 w-5 text-green-400",
                                                                                             attrs: {
                                                                                                 fill: "none",
+                                                                                                stroke: "currentColor",
                                                                                                 "stroke-linecap": "round",
                                                                                                 "stroke-linejoin": "round",
                                                                                                 "stroke-width": "2",
-                                                                                                stroke: "currentColor",
                                                                                                 viewBox: "0 0 24 24"
                                                                                             }
                                                                                         },
@@ -26104,7 +26236,7 @@
                     _vm._v(" "),
                     _c("main", [_vm._t("default")], 2),
                     _vm._v(" "),
-                    _c("portal-target", {attrs: {name: "modal", multiple: ""}})
+                    _c("portal-target", {attrs: {multiple: "", name: "modal"}})
                 ],
                 1
             )
@@ -26174,7 +26306,7 @@
                                                 _vm._v(" "),
                                                 _c("jet-input", {
                                                     staticClass: "mt-1 block w-full",
-                                                    attrs: {id: "name", type: "text", autofocus: ""},
+                                                    attrs: {autofocus: "", id: "name", type: "text"},
                                                     model: {
                                                         value: _vm.createApiTokenForm.name,
                                                         callback: function ($$v) {
@@ -26802,9 +26934,9 @@
                             [
                                 _c("api-token-manager", {
                                     attrs: {
-                                        tokens: _vm.tokens,
                                         "available-permissions": _vm.availablePermissions,
-                                        "default-permissions": _vm.defaultPermissions
+                                        "default-permissions": _vm.defaultPermissions,
+                                        tokens: _vm.tokens
                                     }
                                 })
                             ],
@@ -26931,7 +27063,7 @@
                             return [
                                 _c("div", {staticClass: "max-w-xl text-sm text-gray-600"}, [
                                     _vm._v(
-                                        "\n            Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.\n        "
+                                        "\n            Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting\n            your account, please download any data or information that you wish to retain.\n        "
                                     )
                                 ]),
                                 _vm._v(" "),
@@ -26976,7 +27108,7 @@
                                             fn: function () {
                                                 return [
                                                     _vm._v(
-                                                        "\n                Are you sure you want to delete your account? Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.\n\n                "
+                                                        "\n                Are you sure you want to delete your account? Once your account is deleted, all of its resources and\n                data will be permanently deleted. Please enter your password to confirm you would like to\n                permanently delete your account.\n\n                "
                                                     ),
                                                     _c(
                                                         "div",
@@ -26986,8 +27118,8 @@
                                                                 ref: "password",
                                                                 staticClass: "mt-1 block w-3/4",
                                                                 attrs: {
-                                                                    type: "password",
-                                                                    placeholder: "Password"
+                                                                    placeholder: "Password",
+                                                                    type: "password"
                                                                 },
                                                                 nativeOn: {
                                                                     keyup: function ($event) {
@@ -27132,7 +27264,7 @@
                             return [
                                 _c("div", {staticClass: "max-w-xl text-sm text-gray-600"}, [
                                     _vm._v(
-                                        "\n            If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.\n        "
+                                        "\n            If necessary, you may logout of all of your other browser sessions across all of your devices. Some of\n            your recent sessions are listed below; however, this list may not be exhaustive. If you feel your\n            account has been compromised, you should also update your password.\n        "
                                     )
                                 ]),
                                 _vm._v(" "),
@@ -27153,11 +27285,11 @@
                                                             staticClass: "w-8 h-8 text-gray-500",
                                                             attrs: {
                                                                 fill: "none",
+                                                                stroke: "currentColor",
                                                                 "stroke-linecap": "round",
                                                                 "stroke-linejoin": "round",
                                                                 "stroke-width": "2",
-                                                                viewBox: "0 0 24 24",
-                                                                stroke: "currentColor"
+                                                                viewBox: "0 0 24 24"
                                                             }
                                                         },
                                                         [
@@ -27174,13 +27306,13 @@
                                                         {
                                                             staticClass: "w-8 h-8 text-gray-500",
                                                             attrs: {
-                                                                xmlns: "http://www.w3.org/2000/svg",
-                                                                viewBox: "0 0 24 24",
-                                                                "stroke-width": "2",
-                                                                stroke: "currentColor",
                                                                 fill: "none",
+                                                                stroke: "currentColor",
                                                                 "stroke-linecap": "round",
-                                                                "stroke-linejoin": "round"
+                                                                "stroke-linejoin": "round",
+                                                                "stroke-width": "2",
+                                                                viewBox: "0 0 24 24",
+                                                                xmlns: "http://www.w3.org/2000/svg"
                                                             }
                                                         },
                                                         [
@@ -27190,15 +27322,17 @@
                                                                     stroke: "none"
                                                                 }
                                                             }),
+                                                            _vm._v(" "),
                                                             _c("rect", {
                                                                 attrs: {
-                                                                    x: "7",
-                                                                    y: "4",
-                                                                    width: "10",
                                                                     height: "16",
-                                                                    rx: "1"
+                                                                    rx: "1",
+                                                                    width: "10",
+                                                                    x: "7",
+                                                                    y: "4"
                                                                 }
                                                             }),
+                                                            _vm._v(" "),
                                                             _c("path", {
                                                                 attrs: {d: "M11 5h2M12 17v.01"}
                                                             })
@@ -27309,7 +27443,7 @@
                                             fn: function () {
                                                 return [
                                                     _vm._v(
-                                                        "\n                Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.\n\n                "
+                                                        "\n                Please enter your password to confirm you would like to logout of your other browser sessions across\n                all of your devices.\n\n                "
                                                     ),
                                                     _c(
                                                         "div",
@@ -27319,8 +27453,8 @@
                                                                 ref: "password",
                                                                 staticClass: "mt-1 block w-3/4",
                                                                 attrs: {
-                                                                    type: "password",
-                                                                    placeholder: "Password"
+                                                                    placeholder: "Password",
+                                                                    type: "password"
                                                                 },
                                                                 nativeOn: {
                                                                     keyup: function ($event) {
@@ -27575,7 +27709,7 @@
                                 _c("div", {staticClass: "mt-3 max-w-xl text-sm text-gray-600"}, [
                                     _c("p", [
                                         _vm._v(
-                                            "\n                When two factor authentication is enabled, you will be prompted for a secure, random token during authentication. You may retrieve this token from your phone's Google Authenticator application.\n            "
+                                            "\n                When two factor authentication is enabled, you will be prompted for a secure, random token during\n                authentication. You may retrieve this token from your phone's Google Authenticator application.\n            "
                                         )
                                     ])
                                 ]),
@@ -27592,7 +27726,7 @@
                                                     [
                                                         _c("p", {staticClass: "font-semibold"}, [
                                                             _vm._v(
-                                                                "\n                        Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.\n                    "
+                                                                "\n                        Two factor authentication is now enabled. Scan the following QR code using your phone's\n                        authenticator application.\n                    "
                                                             )
                                                         ])
                                                     ]
@@ -27615,7 +27749,7 @@
                                                     [
                                                         _c("p", {staticClass: "font-semibold"}, [
                                                             _vm._v(
-                                                                "\n                        Store these recovery codes in a secure password manager. They can be used to recover access to your account if your two factor authentication device is lost.\n                    "
+                                                                "\n                        Store these recovery codes in a secure password manager. They can be used to recover access\n                        to your account if your two factor authentication device is lost.\n                    "
                                                             )
                                                         ])
                                                     ]
@@ -27658,7 +27792,7 @@
                                                         "jet-button",
                                                         {
                                                             class: {"opacity-25": _vm.enabling},
-                                                            attrs: {type: "button", disabled: _vm.enabling}
+                                                            attrs: {disabled: _vm.enabling, type: "button"}
                                                         },
                                                         [
                                                             _vm._v(
@@ -27811,9 +27945,9 @@
                                             ref: "current_password",
                                             staticClass: "mt-1 block w-full",
                                             attrs: {
+                                                autocomplete: "current-password",
                                                 id: "current_password",
-                                                type: "password",
-                                                autocomplete: "current-password"
+                                                type: "password"
                                             },
                                             model: {
                                                 value: _vm.form.current_password,
@@ -27843,9 +27977,9 @@
                                         _c("jet-input", {
                                             staticClass: "mt-1 block w-full",
                                             attrs: {
+                                                autocomplete: "new-password",
                                                 id: "password",
-                                                type: "password",
-                                                autocomplete: "new-password"
+                                                type: "password"
                                             },
                                             model: {
                                                 value: _vm.form.password,
@@ -27878,9 +28012,9 @@
                                         _c("jet-input", {
                                             staticClass: "mt-1 block w-full",
                                             attrs: {
+                                                autocomplete: "new-password",
                                                 id: "password_confirmation",
-                                                type: "password",
-                                                autocomplete: "new-password"
+                                                type: "password"
                                             },
                                             model: {
                                                 value: _vm.form.password_confirmation,
@@ -28105,7 +28239,7 @@
                                         _vm._v(" "),
                                         _c("jet-input", {
                                             staticClass: "mt-1 block w-full",
-                                            attrs: {id: "name", type: "text", autocomplete: "name"},
+                                            attrs: {autocomplete: "name", id: "name", type: "text"},
                                             model: {
                                                 value: _vm.form.name,
                                                 callback: function ($$v) {
@@ -40065,6 +40199,7 @@
             }
 
             /*  */
+
 
 
 // these keywords should not appear inside expressions, but operators like
