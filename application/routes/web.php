@@ -1,5 +1,6 @@
 <?php
 
+use App\Models\Repositories\ArticlesRepository;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -26,3 +27,14 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/articles', function () {
         'articles' => App\Models\Article::all(),
     ]);
 })->name('articles');
+
+Route::get('search', function (ArticlesRepository $repository) {
+    if (request('q') === null) {
+        return redirect()->route('articles');
+    }
+
+    $articles = $repository->search(request('q'));
+    return view('articles.index', [
+        'articles' => $articles,
+    ]);
+});

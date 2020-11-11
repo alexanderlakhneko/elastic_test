@@ -9,6 +9,17 @@
         <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
             <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
                 <div class="flex flex-wrap">
+                    <form class="px-6 py-4 w-full" action="{{ url('search') }}" method="get">
+                        <div class="md:flex md:items-center">
+                            <input
+                                type="text"
+                                name="q"
+                                class="bg-gray-200 appearance-none border-2 border-gray-200 rounded w-full py-2 px-4 text-gray-700 leading-tight focus:outline-none focus:bg-white focus:border-purple-500"
+                                placeholder="Search..."
+                                value="{{ request('q') }}"
+                            />
+                        </div>
+                    </form>
                     @forelse ($articles as $article)
                         <article class="px-6 py-4 w-full overflow-hidden shadow">
                             <div class="font-bold text-xl mb-2">{{ $article->title }}</div>
